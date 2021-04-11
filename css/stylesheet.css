@@ -158,7 +158,7 @@ a, a:focus {
 }
 
 a:hover, a:active {
-  color: #1baa80;
+  color: #fda0d6;
   text-decoration: none;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
@@ -3092,7 +3092,7 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
   }
 }
 .bg-primary, .badge-primary {
-  background-color: #20c997 !important;
+  background-color: #c92061 !important;
 }
 
 .bg-secondary {
@@ -3100,7 +3100,7 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
 }
 
 .text-primary, .btn-light, .btn-outline-light:hover, .btn-link, .btn-outline-light:not(:disabled):not(.disabled).active, .btn-outline-light:not(:disabled):not(.disabled):active {
-  color: #20c997 !important;
+  color: #ff99cc !important;
 }
 
 .btn-link:hover {
